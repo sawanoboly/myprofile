@@ -10,16 +10,17 @@ http://jfk2013.jaws-ug.jp/wp-content/uploads/2013/07/1044533_530040700383067_789
 
 ### 所属
 
-* OpsRock.in
 * HiganWorks LLC
+* OpsRock LLC
 
 ### 自己紹介
-HiganWorks LLC 代表社員、Opsrock.in運営など
 アプリケーション開発・デプロイのため、プラットホーム構築や構成管理の自動化をテーマに活動。
-OpsCodeのオープンソースプロジェクトにコントリビュータとして参加。
+ChefなどInfrastructure as Codeの活用を中心としたオープンソースプロジェクトにコントリビュータとして参加。
+主な著書『Chef活用ガイド』
 
 ### Web
 
+* http://higanworks.com/
 * http://opsrock.in/
 
 ### SNS
