@@ -6,7 +6,7 @@
 ### 主な聴講者
 
 ### プロフィール画像(URL でも可)
-http://jfk2013.jaws-ug.jp/wp-content/uploads/2013/07/1044533_530040700383067_789164362_n-148x131.jpg
+https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/1044533_530040700383067_789164362_n.jpg
 
 ### 所属
 
