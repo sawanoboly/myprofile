@@ -1,7 +1,7 @@
 ## 澤登 亨彦 (sawanoboly)
 
-### プロフィール画像(URL でも可)
-https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/1044533_530040700383067_789164362_n.jpg
+### プロフィール画像(Dropbox public)
+https://dl.dropboxusercontent.com/u/3524956/social_images/sawa_keynote01.jpg
 
 ### 所属
 
