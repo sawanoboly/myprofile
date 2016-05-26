@@ -6,7 +6,8 @@
 ### 主な聴講者
 
 ### プロフィール画像(Dropbox public)
-https://dl.dropboxusercontent.com/u/3524956/social_images/sawa_keynote01.jpg
+
+https://dl.dropboxusercontent.com/u/3524956/social_images/sawa_fish.jpg
 
 ### 所属
 
