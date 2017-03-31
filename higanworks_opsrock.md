@@ -5,9 +5,11 @@
 
 ### 主な聴講者
 
-### プロフィール画像(Dropbox public)
+### プロフィール画像
 
-https://dl.dropboxusercontent.com/u/3524956/social_images/sawa_fish.jpg
+大きさ、切り抜き等適当に変更OKです。
+
+[JPEG(960x960)](./_images/sawa_fish.jpg)
 
 ### 所属
 
